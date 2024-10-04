@@ -28,7 +28,7 @@
         <img src="./assets/icon-w.png" alt="Icon" style="width: 4rem" />
         <div style="text-align: right">
           <h1 style="color: white">Todo List</h1>
-          <p>Welcome To This App , Made By Kian.R</p>
+          <p>Welcome To This App , Made By Kian-RZ</p>
         </div>
       </div>
       <div
